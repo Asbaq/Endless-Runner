@@ -9,6 +9,10 @@ Certainly! Here's a detailed documentation for the **Endless Runner** game you s
 ## 📌 Introduction
 **Endless Runner** is an exciting 2D side-scrolling game where the player controls a character who continuously moves forward while dodging enemies and obstacles. The goal is to survive as long as possible while defeating enemies, avoiding traps, and collecting power-ups. The game features smooth animations, a progression system, enemy spawning, and a dynamic scoring system.
 
+🔗 Video Trailer
+
+https://youtube.com/shorts/oep3hfKN5co?si=aR5vu0bQQQnX5iCu
+
 ## 🔥 Features
 - 🏃‍♂️ **Character Movement**: The player character moves forward automatically, with the option to jump and dodge.
 - 🧟‍♂️ **Enemy Encounters**: Various enemies, like bees and ninjas, spawn randomly, each with their own unique attack behaviors.
